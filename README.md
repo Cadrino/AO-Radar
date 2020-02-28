@@ -1,7 +1,5 @@
 # AO-Radar
 
-Sorry, pretty sure Albion finally encrypted the traffic required for AO-Radar to work. Feel free to test it.
-
 # Getting Started
 
 * Download project as source code with git
